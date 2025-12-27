@@ -1,0 +1,217 @@
+
+@import url("file:///home/user/.cache/wal/colors.css");
+
+
+:root {
+  --zen-primary-color: var(--color4) !important;
+  --zen-secondary-color: var(--color2) !important;
+  --zen-accent-color: var(--color6) !important;
+
+  --toolbar-bgcolor: var(--background) !important;
+  --toolbar-color: var(--foreground) !important;
+  --toolbar-field-background-color: var(--background) !important;
+  --toolbar-field-color: var(--foreground) !important;
+  --toolbar-field-border-color: var(--color8) !important;
+
+  --tab-selected-bgcolor: var(--color1) !important;
+  --tab-bgcolor: var(--background) !important;
+  --tab-hover-bgcolor: var(--color8) !important;
+
+  --sidebar-background-color: var(--background) !important;
+  --sidebar-text-color: var(--foreground) !important;
+}
+
+#navigator-toolbox {
+  background-color: var(--background) !important;
+  border-bottom: none !important;
+}
+
+#urlbar {
+  background-color: #00000000 !important;
+  color: var(--foreground) !important;
+  border-radius: 6px !important;
+}
+
+#urlbar:focus-within {
+  box-shadow: 0 0 0 2px var(--color4)40 !important;
+}
+
+#urlbar-input {
+  background-color: var(--background) !important;
+  color: var(--foreground) !important;
+}
+
+#urlbar-background {
+  background-color: var(--background) !important;
+  border: none !important;
+}
+
+#urlbar-container,
+#urlbar-input-container {
+  background-color: var(--background) !important;
+}
+
+#urlbar-results {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.urlbarView-row {
+  background-color: var(--background) !important;
+  color: var(--foreground) !important;
+}
+
+.urlbarView-row:hover,
+.urlbarView-row[selected] {
+  background-color: var(--color1) !important;
+  color: var(--foreground) !important;
+}
+
+.urlbarView-title,
+.urlbarView-url {
+  color: var(--foreground) !important;
+}
+
+.urlbarView-row[selected] .urlbarView-title,
+.urlbarView-row[selected] .urlbarView-url {
+  color: var(--foreground) !important;
+}
+
+.tabbrowser-tab {
+  background-color: var(--background) !important;
+}
+
+.tabbrowser-tab:hover .tab-background {
+  background-color: var(--color8) !important;
+}
+
+.tabbrowser-tab[selected] .tab-background {
+  background-color: var(--color1) !important;
+}
+
+.tab-text {
+  color: var(--foreground) !important;
+}
+
+#tabs-newtab-button {
+  background-color: var(--background) !important;
+  color: var(--foreground) !important;
+}
+
+#tabs-newtab-button:hover {
+  background-color: var(--color8) !important;
+}
+
+#sidebar-box {
+  background-color: var(--background) !important;
+  border: none !important;
+}
+
+menupopup {
+  background-color: #00000000 !important;
+  color: var(--foreground) !important;
+  border: none !important;
+}
+
+menuitem:hover {
+  background-color: var(--color1) !important;
+}
+
+.zen-sidebar {
+  background-color: var(--background) !important;
+}
+
+.zen-workspaces-button {
+  background-color: var(--color2) !important;
+  color: var(--foreground) !important;
+}
+
+.zen-workspaces-button:hover {
+  background-color: var(--color4) !important;
+}
+
+scrollbar {
+  background-color: var(--background) !important;
+}
+
+thumb {
+  background-color: var(--color8) !important;
+  border-radius: 4px !important;
+}
+
+thumb:hover {
+  background-color: var(--color6) !important;
+}
+
+
+#zen-tabbox-wrapper {
+  margin: 0 !important;
+  background-color: var(--background) !important;
+}
+
+.browserSidebarContainer {
+  margin: 0 !important;
+  background-color: var(--background) !important;
+  border: none !important;
+}
+
+body[zen-compact="true"] #sidebar-box,
+body[zen-compact="true"] .zen-sidebar,
+#main-window[zen-compact="true"] #sidebar-box,
+#main-window[zen-compact="true"] .zen-sidebar,
+.zen-compact-mode #sidebar-box,
+.zen-compact-mode .zen-sidebar {
+  background-color: var(--background) !important;
+  border: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+body[zen-compact="true"] #zen-sidebar-container,
+#main-window[zen-compact="true"] #zen-sidebar-container,
+.zen-compact-mode #zen-sidebar-container {
+  background-color: var(--background) !important;
+  border: none !important;
+  margin: 0 !important;
+}
+
+body[zen-compact="true"] #zen-workspaces-container,
+#main-window[zen-compact="true"] #zen-workspaces-container,
+.zen-compact-mode #zen-workspaces-container {
+  background-color: var(--background) !important;
+  border: none !important;
+  margin: 0 !important;
+}
+
+#zen-sidebar-splitter,
+body[zen-compact="true"] #zen-sidebar-splitter {
+  background-color: var(--background) !important;
+  border: none !important;
+  margin: 0 !important;
+}
+
+body[zen-compact="true"],
+#main-window[zen-compact="true"],
+.zen-compact-mode {
+  --zen-colors-primary: var(--background) !important;
+  --zen-colors-secondary: var(--background) !important;
+  --zen-sidebar-color: var(--background) !important;
+  --zen-compact-sidebar-bg: var(--background) !important;
+  --zen-compact-color: var(--background) !important;
+}
+
+body[zen-compact="true"] .zen-sidebar-panel,
+body[zen-compact="true"] .zen-sidebar-content {
+  background-color: var(--background) !important;
+  border: none !important;
+}
+
+:root {
+  --zen-accent-color: var(--color6) !important;
+  --zen-primary-color: var(--color4) !important;
+  --zen-secondary-color: var(--color2) !important;
+}
+
+#notification-popup {
+  border-radius: 10px !important;
+}
