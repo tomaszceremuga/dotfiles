@@ -1,0 +1,7 @@
+[[plugin.deps]]
+use = "lpnh/fr"
+rev = "3d32e55"
+hash = "f7ab219b58675582ef855a9414dbc659"
+
+[flavor]
+deps = []
