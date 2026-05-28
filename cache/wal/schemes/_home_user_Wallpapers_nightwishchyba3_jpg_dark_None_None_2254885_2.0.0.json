@@ -1,0 +1,28 @@
+{
+    "checksum": "acc13eb968f39bae4310db4cafca8192",
+    "wallpaper": "/home/user/Wallpapers/nightwishchyba3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120812",
+        "foreground": "#c3c1c3",
+        "cursor": "#c3c1c3"
+    },
+    "colors": {
+        "color0": "#120812",
+        "color1": "#6E4671",
+        "color2": "#945672",
+        "color3": "#C9847D",
+        "color4": "#623F80",
+        "color5": "#714C8A",
+        "color6": "#99659C",
+        "color7": "#c3c1c3",
+        "color8": "#6a576a",
+        "color9": "#6E4671",
+        "color10": "#945672",
+        "color11": "#C9847D",
+        "color12": "#623F80",
+        "color13": "#714C8A",
+        "color14": "#99659C",
+        "color15": "#c3c1c3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "6d41236ca56d1855a4f0fc2bd1b0c245",
+    "wallpaper": "/home/user/Wallpapers/tojuz3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0915",
+        "foreground": "#c2c1c4",
+        "cursor": "#c2c1c4"
+    },
+    "colors": {
+        "color0": "#0e0915",
+        "color1": "#4D3166",
+        "color2": "#56496A",
+        "color3": "#963473",
+        "color4": "#613494",
+        "color5": "#6E4C98",
+        "color6": "#673FC5",
+        "color7": "#c2c1c4",
+        "color8": "#61586c",
+        "color9": "#4D3166",
+        "color10": "#56496A",
+        "color11": "#963473",
+        "color12": "#613494",
+        "color13": "#6E4C98",
+        "color14": "#673FC5",
+        "color15": "#c2c1c4"
+    }
+}

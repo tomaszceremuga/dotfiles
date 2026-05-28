@@ -24,6 +24,10 @@ function cda
     end
 end
 
+function nrc
+    nvim ~/.config/awesome/rc.lua
+end
+
 function y
     set tmp (mktemp -t "yazi-cwd.XXXXXX")
     yazi $argv --cwd-file="$tmp"

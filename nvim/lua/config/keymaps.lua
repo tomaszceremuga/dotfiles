@@ -1,6 +1,3 @@
--- Keymaps are automatically loaded on the VeryLazy event
--- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
--- Add any additional keymaps here
 local map = vim.keymap.set
 
 map("n", "<C-d>", "<C-d>zz", { desc = "Scroll half-page down and center" })
@@ -20,14 +17,22 @@ map("v", "<A-k>", ":m '<-2<CR>gv=gv", { desc = "Move selection up" })
 map("n", "gl", ":!xdg-open <cWORD><CR>", { desc = "Open URL under cursor" })
 
 map("n", "<leader>n", function()
-  vim.opt.number = not vim.opt.number:get()
-  vim.opt.relativenumber = false
+    vim.opt.number = not vim.opt.number:get()
+    vim.opt.relativenumber = false
 
-  if vim.g.snacks_indent_enabled then
-    Snacks.indent.disable()
-  else
-    Snacks.indent.enable()
-  end
+    if vim.g.snacks_indent_enabled then
+        Snacks.indent.disable()
+    else
+        Snacks.indent.enable()
+    end
 
-  vim.g.snacks_indent_enabled = not vim.g.snacks_indent_enabled
+    vim.g.snacks_indent_enabled = not vim.g.snacks_indent_enabled
 end)
+
+map("n", "<C-t>", function()
+    vim.cmd("normal yy")
+    vim.cmd("normal p")
+    vim.cmd("normal k")
+    vim.cmd("normal gcc")
+    vim.cmd("normal j")
+end, { desc = "Duplicate line and comment original" })

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/user/Wallpapers/fiolettapetapaski.png"
+let background = "#090610"
+let foreground = "#c1c0c3"
+let cursor     = "#c1c0c3"
+
+" Colors
+let color0  = "#090610"
+let color1  = "#452957"
+let color2  = "#53316C"
+let color3  = "#55306E"
+let color4  = "#5D4671"
+let color5  = "#623B84"
+let color6  = "#6F4A91"
+let color7  = "#c1c0c3"
+let color8  = "#5c5669"
+let color9  = "#452957"
+let color10 = "#53316C"
+let color11 = "#55306E"
+let color12 = "#5D4671"
+let color13 = "#623B84"
+let color14 = "#6F4A91"
+let color15 = "#c1c0c3"

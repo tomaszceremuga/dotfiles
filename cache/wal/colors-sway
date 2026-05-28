@@ -1,0 +1,21 @@
+set $wallpaper /home/user/Wallpapers/fiolettapetapaski.png
+
+set $background #090610
+set $foreground #c1c0c3
+
+set $color0 #090610
+set $color1 #452957
+set $color2 #53316C
+set $color3 #55306E
+set $color4 #5D4671
+set $color5 #623B84
+set $color6 #6F4A91
+set $color7 #c1c0c3
+set $color8 #5c5669
+set $color9 #452957
+set $color10 #53316C
+set $color11 #55306E
+set $color12 #5D4671
+set $color13 #623B84
+set $color14 #6F4A91
+set $color15 #c1c0c3

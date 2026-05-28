@@ -1,0 +1,28 @@
+{
+    "checksum": "6e1d0c68cc8c59f815287c1095526f9c",
+    "wallpaper": "/home/user/Wallpapers/nightwishszarawyfinal2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#150911",
+        "foreground": "#c4c1c3",
+        "cursor": "#c4c1c3"
+    },
+    "colors": {
+        "color0": "#150911",
+        "color1": "#513D61",
+        "color2": "#664D6B",
+        "color3": "#8A6476",
+        "color4": "#785F87",
+        "color5": "#917193",
+        "color6": "#AC8DAA",
+        "color7": "#c4c1c3",
+        "color8": "#6c5866",
+        "color9": "#513D61",
+        "color10": "#664D6B",
+        "color11": "#8A6476",
+        "color12": "#785F87",
+        "color13": "#917193",
+        "color14": "#AC8DAA",
+        "color15": "#c4c1c3"
+    }
+}

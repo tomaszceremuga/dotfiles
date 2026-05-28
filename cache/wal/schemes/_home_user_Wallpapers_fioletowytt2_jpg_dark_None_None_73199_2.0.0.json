@@ -1,0 +1,28 @@
+{
+    "checksum": "c9730f91f74ebfa30a7395c191cb3e0f",
+    "wallpaper": "/home/user/Wallpapers/fioletowytt2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0814",
+        "foreground": "#c2c1c4",
+        "cursor": "#c2c1c4"
+    },
+    "colors": {
+        "color0": "#0d0814",
+        "color1": "#5F397A",
+        "color2": "#5C4672",
+        "color3": "#5E3B82",
+        "color4": "#633C83",
+        "color5": "#6E4990",
+        "color6": "#7C57A1",
+        "color7": "#c2c1c4",
+        "color8": "#5f586b",
+        "color9": "#5F397A",
+        "color10": "#5C4672",
+        "color11": "#5E3B82",
+        "color12": "#633C83",
+        "color13": "#6E4990",
+        "color14": "#7C57A1",
+        "color15": "#c2c1c4"
+    }
+}

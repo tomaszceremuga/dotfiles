@@ -1,0 +1,28 @@
+{
+    "checksum": "767cc34c930a297e186fd0f453a0058c",
+    "wallpaper": "/home/user/Wallpapers/nighwishnowy3final.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120712",
+        "foreground": "#c3c1c3",
+        "cursor": "#c3c1c3"
+    },
+    "colors": {
+        "color0": "#120712",
+        "color1": "#6C4871",
+        "color2": "#8F5973",
+        "color3": "#BF8479",
+        "color4": "#74518C",
+        "color5": "#98699B",
+        "color6": "#C27AA0",
+        "color7": "#c3c1c3",
+        "color8": "#6a566a",
+        "color9": "#6C4871",
+        "color10": "#8F5973",
+        "color11": "#BF8479",
+        "color12": "#74518C",
+        "color13": "#98699B",
+        "color14": "#C27AA0",
+        "color15": "#c3c1c3"
+    }
+}

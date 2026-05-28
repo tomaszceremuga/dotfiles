@@ -1,0 +1,28 @@
+{
+    "checksum": "6f75da372826eb8a8610d22c8a7e3706",
+    "wallpaper": "/home/user/Wallpapers/fiolettapetapaski.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090610",
+        "foreground": "#c1c0c3",
+        "cursor": "#c1c0c3"
+    },
+    "colors": {
+        "color0": "#090610",
+        "color1": "#452957",
+        "color2": "#53316C",
+        "color3": "#55306E",
+        "color4": "#5D4671",
+        "color5": "#623B84",
+        "color6": "#6F4A91",
+        "color7": "#c1c0c3",
+        "color8": "#5c5669",
+        "color9": "#452957",
+        "color10": "#53316C",
+        "color11": "#55306E",
+        "color12": "#5D4671",
+        "color13": "#623B84",
+        "color14": "#6F4A91",
+        "color15": "#c1c0c3"
+    }
+}
